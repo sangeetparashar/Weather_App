@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sangeetparashar/Weather_App#readme",
   "dependencies": {
+    "axios": "^0.13.1",
     "request": "^2.81.0",
     "yargs": "^8.0.1"
   }

@@ -21,7 +21,7 @@ var geocodeAddress = (address) => {
                     Latitude: body.results[0].geometry.location.lat
                 });
             }
-        });
+        }); 
     });
 };
 
